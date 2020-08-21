@@ -97,6 +97,7 @@ dependencies {
     implementation(project(Modules.entity))
     implementation(project(Modules.domain))
     implementation(project(Modules.data))
+    implementation(project(Modules.kvuikit))
 
     implementation(Libs.stdLib)
 

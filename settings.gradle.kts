@@ -1,2 +1,2 @@
 rootProject.name = "CleanArchitecture"
-include(":entity", ":domain", ":data", ":app")
+include(":entity", ":domain", ":data", ":app", ":kvuikit")

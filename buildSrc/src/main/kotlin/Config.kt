@@ -159,6 +159,7 @@ object Modules {
     const val entity = ":entity"
     const val domain = ":domain"
     const val data = ":data"
+    const val kvuikit = ":kvuikit"
 }
 
 object Android {
