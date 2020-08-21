@@ -160,6 +160,7 @@ object Modules {
     const val domain = ":domain"
     const val data = ":data"
     const val kvuikit = ":kvuikit"
+    const val common = ":common"
 }
 
 object Android {

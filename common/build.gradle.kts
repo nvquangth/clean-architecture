@@ -5,8 +5,5 @@ plugins {
 
 dependencies {
 
-    // Module
-    implementation(project(Modules.common))
-
     implementation(Libs.stdLib)
 }

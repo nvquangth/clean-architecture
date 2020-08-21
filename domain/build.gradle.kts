@@ -7,6 +7,7 @@ dependencies {
 
     // Module
     implementation(project(Modules.entity))
+    implementation(project(Modules.common))
 
     implementation(Libs.stdLib)
 
