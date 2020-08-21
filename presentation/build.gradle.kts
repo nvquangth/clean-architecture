@@ -3,6 +3,7 @@ plugins {
     id(GradlePlugins.kotlinAndroid)
     id(GradlePlugins.kotlinAndroidExt)
     id(GradlePlugins.kotlinKapt)
+    id(GradlePlugins.navSafeArg)
     id(GradlePlugins.hiltAndroid)
 }
 
